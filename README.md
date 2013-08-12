@@ -4,7 +4,7 @@ Version 1.0
 
 Matlab m-file to build a dynamic heart. It is an open source code, welcome to use and modify it. I really hope that it 
 
-will be helpful. Further improvement is in my plan， now it is just a simple one.
+will be helpful. Further improvement is in my plan, now it is just a simple one.
 
 Background:
 
