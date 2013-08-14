@@ -1,4 +1,4 @@
-function[]=dymanic()
+function[]=dynamic()
 % Construct dimensions and axis.
 [X,Y,Z] = meshgrid(linspace(-3,3,101));
 % Classical heart-shape 3-D function.  
